@@ -1,0 +1,13 @@
+{
+  "id": "harvest",
+  "name": "Harvest",
+  "version": "1.0.0",
+  "description": "Harvest",
+  "main": "index.js",
+  "author": "Roy Prins (rajprins@gmail.com)",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://id.getharvest.com/accounts",
+    "hasNotificationSound": true
+  }
+}

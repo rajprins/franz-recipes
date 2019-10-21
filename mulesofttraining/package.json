@@ -1,0 +1,13 @@
+{
+  "id": "mulesofttrraining",
+  "name": "MuleSoft Training",
+  "version": "1.0.0",
+  "description": "mulesofttrraining",
+  "main": "index.js",
+  "author": "Rou Prins (rajprins@gmail.com)",
+  "license": "MIT",
+  "config": {
+		"serviceURL": "https://training.mulesoft.com",
+		"hasNotificationSound": true
+  }
+}

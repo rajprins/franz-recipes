@@ -1,0 +1,13 @@
+{
+  "id": "marvel",
+  "name": "Marvel",
+  "version": "1.0.0",
+  "description": "Marvel",
+  "main": "index.js",
+  "author": "Roy Prins (rajprins@gmail.com)",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://marvelapp.com/dashboard/",
+    "hasNotificationSound": true
+  }
+}

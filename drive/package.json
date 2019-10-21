@@ -1,0 +1,13 @@
+{
+  "id": "drive",
+  "name": "Drive",
+  "version": "1.0.0",
+  "description": "drive",
+  "main": "index.js",
+  "author": "Roy Prins (rajprins@gmail.com)",
+  "license": "MIT",
+  "config": {
+		"serviceURL": "https://drive.google.com",
+		"hasNotificationSound": true
+  }
+}

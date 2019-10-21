@@ -1,0 +1,13 @@
+{
+  "id": "anypointplatform",
+  "name": "Anypoint Platform",
+  "version": "1.0.0",
+  "description": "anypointplatform",
+  "main": "index.js",
+  "author": "Roy Prins (rajprins@gmail.com)",
+  "license": "MIT",
+  "config": {
+		"serviceURL": "https://anypoint.mulesoft.com",
+		"hasNotificationSound": true
+  }
+}

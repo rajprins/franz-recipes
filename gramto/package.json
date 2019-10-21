@@ -1,0 +1,13 @@
+{
+  "id": "gramto",
+  "name": "Gramto",
+  "version": "1.0.0",
+  "description": "Gramto",
+  "main": "index.js",
+  "author": "Roy Prins (rajprins@gmail.com)",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.gramto.com/app/post",
+    "hasNotificationSound": true
+  }
+}

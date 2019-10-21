@@ -1,0 +1,15 @@
+{
+  "id": "wordpress",
+  "name": "Wordpress",
+  "version": "1.0.0",
+  "description": "Wordpress",
+  "main": "index.js",
+  "author": "Roy Prins (rajprins@gmail.com)",
+  "license": "MIT",
+  "config": {
+		"serviceURL": "{teamId}/wp-admin",
+		"hasNotificationSound": true,
+		"hasTeamId": true,
+		"urlInputSuffix": "/wp-admin"
+  }
+}

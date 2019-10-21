@@ -1,0 +1,13 @@
+{
+  "id": "stackoverflow",
+  "name": "Stackoverflow",
+  "version": "1.0.0",
+  "description": "Stackoverflow",
+  "main": "index.js",
+  "author": "Roy Prins (rajprins@gmail.com)",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://stackoverflow.com",
+    "hasNotificationSound": true
+  }
+}

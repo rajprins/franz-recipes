@@ -1,0 +1,13 @@
+{
+  "id": "instagantt",
+  "name": "Instagantt",
+  "version": "1.0.0",
+  "description": "instagantt",
+  "main": "index.js",
+  "author": "Roy Prins (rajprins@gmail.com)",
+  "license": "MIT",
+  "config": {
+		"serviceURL": "https://instagantt.com/app",
+		"hasNotificationSound": true
+  }
+}

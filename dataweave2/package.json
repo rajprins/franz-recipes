@@ -1,0 +1,13 @@
+{
+  "id": "dataweave2",
+  "name": "Dataweave 2 Workbench",
+  "version": "1.0.0",
+  "description": "dataweave2",
+  "main": "index.js",
+  "author": "Rou Prins (rajprins@gmail.com)",
+  "license": "MIT",
+  "config": {
+		"serviceURL": "https://rebrand.ly/dwl-2-playground",
+		"hasNotificationSound": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "lastpass",
+  "name": "Lastpass",
+  "version": "1.0.0",
+  "description": "lastpass",
+  "main": "index.js",
+  "author": "Roy Prins (rajprins@gmail.com)",
+  "license": "MIT",
+  "config": {
+		"serviceURL": "https://lastpass.com",
+		"hasNotificationSound": true
+  }
+}
