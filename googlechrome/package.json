@@ -1,0 +1,15 @@
+{
+    "id": "googlechrome",
+    "name": "Google Chrome",
+    "version": "1.0.0",
+    "description": "Google Chrome",
+    "main": "index.js",
+    "author": "Alberto Bellotti <aab@bellotti.us.com>",
+    "license": "MIT",
+    "config": {
+        "serviceURL": "https://www.google.com",
+        "hasNotificationSound": true,
+        "hasDirectMessages": true,
+        "openDevTools": true
+    }
+  }

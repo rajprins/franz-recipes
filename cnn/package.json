@@ -1,0 +1,15 @@
+{
+    "id": "cnn",
+    "name": "CNN",
+    "version": "1.0.0",
+    "description": "CNN",
+    "main": "index.js",
+    "author": "Alberto Bellotti <aab@bellotti.us.com>",
+    "license": "MIT",
+    "config": {
+        "serviceURL": "https://www.cnn.com",
+        "hasNotificationSound": true,
+        "hasDirectMessages": true,
+        "openDevTools": true
+    }
+  }

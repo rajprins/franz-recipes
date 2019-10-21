@@ -1,0 +1,15 @@
+{
+    "id": "rh_bluejeans",
+    "name": "RedHat Blue Jeans",
+    "version": "1.0.0",
+    "description": "RedHat Blue Jeans",
+    "main": "index.js",
+    "author": "Alberto Bellotti <aab@bellotti.us.com>",
+    "license": "MIT",
+    "config": {
+        "serviceURL": "https://redhat.bluejeans.com",
+        "hasNotificationSound": false,
+        "hasDirectMessages": false,
+        "openDevTools": true
+    }
+  }

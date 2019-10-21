@@ -1,0 +1,15 @@
+{
+    "id": "plex",
+    "name": "Plex",
+    "version": "1.0.0",
+    "description": "Plex",
+    "main": "index.js",
+    "author": "Alberto Bellotti <aab@bellotti.us.com>",
+    "license": "MIT",
+    "config": {
+        "serviceURL": "https://app.plex.tv/desktop",
+        "hasNotificationSound": false,
+        "hasDirectMessages": false,
+        "openDevTools": true
+    }
+  }

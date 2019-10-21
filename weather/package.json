@@ -1,0 +1,15 @@
+{
+    "id": "weather",
+    "name": "Weather Channel",
+    "version": "1.0.0",
+    "description": "Weather Channel",
+    "main": "index.js",
+    "author": "Alberto Bellotti <aab@bellotti.us.com>",
+    "license": "MIT",
+    "config": {
+        "serviceURL": "https://www.weather.com",
+        "hasNotificationSound": true,
+        "hasDirectMessages": true,
+        "openDevTools": true
+    }
+  }

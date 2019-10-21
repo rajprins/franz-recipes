@@ -1,0 +1,15 @@
+{
+    "id": "youtube",
+    "name": "YouTube",
+    "version": "1.0.0",
+    "description": "YouTube",
+    "main": "index.js",
+    "author": "Alberto Bellotti <aab@bellotti.us.com>",
+    "license": "MIT",
+    "config": {
+        "serviceURL": "https://www.youtube.com",
+        "hasNotificationSound": false,
+        "hasDirectMessages": false,
+        "openDevTools": true
+    }
+  }
