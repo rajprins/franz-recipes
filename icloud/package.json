@@ -1,13 +1,15 @@
 {
-  "id": "iCloud",
-  "name": "iCloud",
+  "id": "icloud",
+  "name": "Apple iCloud",
   "version": "1.0.0",
-  "description": "Apple iCloud Mail",
+  "description": "Apple iCloud",
   "main": "index.js",
-  "author": "Bryan Gibson <bryan.j.gibson@icloud.com>",
+  "author": "Roy Prins (rajprins@gmail.com)",
   "license": "MIT",
-  "repository": "https://github.com/bgibson72/franz-icloud",
+  "repository": "https://www.icloud.com",
   "config": {
-    "serviceURL": "https://www.icloud.com/#mail"
+    "hasNotificationSound": true,
+    "hasIndirectMessages": true,
+    "hasCustomUrl": true
   }
 }
